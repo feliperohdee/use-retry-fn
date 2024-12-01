@@ -1,4 +1,4 @@
-# useRetryFn 🔄
+# use-retry-fn 🔄
 
 A lightweight, flexible, and powerful retry mechanism for async operations in TypeScript.
 
