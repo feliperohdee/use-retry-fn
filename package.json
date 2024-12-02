@@ -1,7 +1,7 @@
 {
 	"name": "use-retry-fn",
-	"version": "1.0.1",
-	"main": "index.js",
+	"version": "1.0.2",
+	"main": "dist/index.js",
 	"repository": "https://github.com/feliperohdee/use-retry-fn.git",
 	"author": "Felipe Rohde <feliperohdee@gmail.com>",
 	"license": "MIT",
